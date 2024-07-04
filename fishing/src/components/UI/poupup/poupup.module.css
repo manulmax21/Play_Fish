@@ -1,0 +1,26 @@
+.dialog{
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background: rgba(0,0,0,0.1);
+    position: fixed;
+    display: flex;
+    z-index: 3;
+}
+.dialog__content{
+    color: white;
+    margin: auto;
+    background: rgba(26, 60, 64, 0.7);
+    border-radius: 12px;
+    min-height: 50px;
+    min-width: 300px;
+    padding: 20px;
+}
+.search__btn my-input{
+    color: #E4EDDB;
+    color: #307672;
+    color: #144D53;
+    color: #1A3C40;
+
+}

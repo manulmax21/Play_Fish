@@ -1,0 +1,11 @@
+.main_fon{
+  background-image: url("../assets/f2.jpg");
+  background-size: cover;
+  background-position: center;
+  min-height: 40rem;
+  border-radius: 14px;
+  border: none;
+}
+.cont_poup{
+  position: relative;
+}
